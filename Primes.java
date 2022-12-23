@@ -1,5 +1,13 @@
+// More changes Dec 23
+
+<<<<<<< HEAD
 //package ch3;
 // Changes on home laptop
+=======
+// Add a comment to see how changes are reflected in GitHub repo
+
+package ch3;
+>>>>>>> c67af9479f03393b567806299a870e3884c127c7
 
 public class Primes {
     public static void main(String[] args) {
