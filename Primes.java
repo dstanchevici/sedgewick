@@ -1,3 +1,5 @@
+// Add a comment to see how changes are reflected in GitHub repo
+
 package ch3;
 
 public class Primes {
